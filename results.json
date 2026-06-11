@@ -1,0 +1,1 @@
+{"Logistic Regression": {"Accuracy": 0.9167, "Precision": 1.0, "Recall": 0.8214, "F1 Score": 0.902, "ROC-AUC": 0.9531}, "Random Forest": {"Accuracy": 0.8833, "Precision": 0.9565, "Recall": 0.7857, "F1 Score": 0.8627, "ROC-AUC": 0.9448}, "Gradient Boosting": {"Accuracy": 0.8667, "Precision": 0.9167, "Recall": 0.7857, "F1 Score": 0.8462, "ROC-AUC": 0.9263}}
