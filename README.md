@@ -2,7 +2,7 @@
 
 End-to-end ML pipeline — EDA → preprocessing → model comparison → deployed inference. Predicts heart disease risk from 13 clinical features using a trained Random Forest model.
 
-🔗 **Live Demo:** *(add Streamlit Cloud URL after deploying)*
+🔗 **Live Demo:** ([https://movie-recommender-garvrana.streamlit.app/](https://heart-disease-predictor-gr.streamlit.app/))
 
 ---
 
